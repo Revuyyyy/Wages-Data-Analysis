@@ -1,4 +1,3 @@
-# wages_analysis_optimized.py
 import os
 import logging
 from pathlib import Path
