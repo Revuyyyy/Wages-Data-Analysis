@@ -155,6 +155,7 @@ Data science gives us the tools to read these stories. What we do with that know
 | `analysis.py` | Complete Python code (all analyses) |
 | `wages_analysis_cleaned.csv` | Dataset with cleaned data |
 | `REPORT.md` | Narrative report |
+| `Wages_Data_Analysis_Presentation.pptx` | Presentation slides summarizing the analysis and results |
 | `figures/q1_summary.png` | Education, experience, and gender charts |
 | `figures/q2_distribution.png` | Wage distribution and Q-Q plot |
 | `figures/q3_outliers.png` | Outlier detection visualization |
